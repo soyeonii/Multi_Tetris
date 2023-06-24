@@ -72,3 +72,10 @@ make
   ```shell
   client 127.0.0.1 포트번호
   ```
+
+## 실행 환경
+
+```
+OS: Unix
+Font: Fixedsys, 18-point
+```
