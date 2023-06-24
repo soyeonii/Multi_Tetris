@@ -45,7 +45,7 @@
 
 ### 서버 화면
 
-<img width="960" alt="image" src="https://github.com/soyeonii/Multi_Tetris/assets/69310195/dcacd9f0-3e4e-4dbe-b1aa-a90d615ddb50">
+<img width="960" alt="image" src="https://github.com/soyeonii/Multi_Tetris/assets/69310195/c075d7aa-bc66-4a45-808d-c9983baa67b0">
 
 ## 사용된 기술
 
