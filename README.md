@@ -53,11 +53,11 @@ Hard Drop 시 보너스 점수를 얻습니다.
 
 #### 게임 화면
 
-<img width="312" alt="image" src="https://github.com/soyeonii/Multi_Tetris/assets/69310195/91a29ea5-eb90-40b4-98bc-a36e6ad41a9a">
-<img width="312" alt="image" src="https://github.com/soyeonii/Multi_Tetris/assets/69310195/f2d80c96-0249-4f0e-934d-c65b062a5150">
-<img width="312" alt="image" src="https://github.com/soyeonii/Multi_Tetris/assets/69310195/7bedf480-77aa-4d91-8b82-fa7fe630a8e6">
-<img width="312" alt="image" src="https://github.com/soyeonii/Multi_Tetris/assets/69310195/e4824899-7728-4fb9-86e7-4f698a0daaf1">
-<img width="312" alt="image" src="https://github.com/soyeonii/Multi_Tetris/assets/69310195/e89ec4b6-5703-4769-9e3a-fd7ae8f30bfa">
+<img width="312" alt="image" src="https://github.com/soyeonii/Multi_Tetris/assets/69310195/7d44e0fc-6154-4ad5-a01f-ac55ac2a34d2">
+<img width="312" alt="image" src="https://github.com/soyeonii/Multi_Tetris/assets/69310195/23443e0e-7ff0-4b16-b341-bd25f7b24998">
+<img width="312" alt="image" src="https://github.com/soyeonii/Multi_Tetris/assets/69310195/abe3776e-89e3-4eea-8c7b-765877ffcd8c">
+<img width="312" alt="image" src="https://github.com/soyeonii/Multi_Tetris/assets/69310195/7679bd87-3530-42db-ab4b-1795835cfae1">
+<img width="312" alt="image" src="https://github.com/soyeonii/Multi_Tetris/assets/69310195/572ca2bd-c93a-4950-8808-82113379656b">
 
 #### 게임 결과 화면
 
