@@ -44,7 +44,7 @@ Hard Drop 시 보너스 점수를 얻습니다.
 
 ### 클라이언트 화면
 
-#### 시작화면
+#### 시작 화면
 
 <img width="234" alt="image" src="https://github.com/soyeonii/Multi_Tetris/assets/69310195/86375a99-ac22-4a2e-92fc-b1ea28dbace5">
 <img width="234" alt="image" src="https://github.com/soyeonii/Multi_Tetris/assets/69310195/f5d872f2-9196-422a-ac0e-5c1f5a641264">
